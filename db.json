@@ -1,9 +1,9 @@
 {
     "cores": [
-        {"id": 1, "modelo": "AZUL"},
-        {"id": 2, "modelo": "PRATA"},
-        {"id": 3, "modelo": "BRANCO"},
-        {"id": 4, "modelo": "VERMELHO"},
-        {"id": 5, "modelo": "PRETO"}
+        {"id": 1, "cor": "AZUL"},
+        {"id": 2, "cor": "PRATA"},
+        {"id": 3, "cor": "BRANCO"},
+        {"id": 4, "cor": "VERMELHO"},
+        {"id": 5, "cor": "PRETO"}
     ]
 }
